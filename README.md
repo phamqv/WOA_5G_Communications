@@ -1,6 +1,8 @@
 # WOA_5G_Communications
 This repository includes the same codes for my paper "Whale Optimization Algorithm with Applications to Resource Allocation in Wireless Networks". If there is any concern and question related to the paper and code, do not hestiate contact me by vietpq90@gmail.com and/or vietpq@pusan.ac.kr. 
 
+Prerequisite: Matlab and CVX. Refer to http://cvxr.com/cvx/ for how to install and use CVX. 
+
 The papper is available at https://ieeexplore.ieee.org/abstract/document/8993843/
 
 How to cite: 
