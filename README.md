@@ -3,7 +3,7 @@ This repository includes the same codes for my paper "Whale Optimization Algorit
 
 Prerequisite: Matlab and CVX. Refer to http://cvxr.com/cvx/ for how to install and use CVX. 
 
-The papper is available at https://ieeexplore.ieee.org/abstract/document/8993843/
+The paper is available at https://ieeexplore.ieee.org/abstract/document/8993843/
 
 How to cite: 
 1. Q.-V Pham, S. Mirjalili, N. Kumar, M. Alazab and W. Hwang, "Whale Optimization Algorithm With Applications to Resource Allocation in Wireless Networks," in IEEE Transactions on Vehicular Technology, vol. 69, no. 4, pp. 4285-4297, Apr. 2020.
